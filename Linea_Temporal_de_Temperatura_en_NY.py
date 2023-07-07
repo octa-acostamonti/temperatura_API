@@ -25,7 +25,7 @@ st.title('Proyecto Grupal: Línea Temporal de Temperatura en Nueva York')
 # Crear la aplicación de Streamlit
 st.markdown(" ### Gráfica de Temperatura en Nueva York")
 st.markdown('***')
-st.markdown('Consultora Veloxa')
+st.markdown('Consultora Veloxia')
 st.markdown('* Se muestra a continuación una gráfica de temperatura de acuerdo a fecha en la ciudad de Nueva York.')
 st.markdown('* Es importante recalcar que la información es extraída de la API del clima de Nueva York, misma que tiene un retraso de 5 días (aproximadamente) para la disposición de los datos.')
 st.markdown('* Las fechas disponibles están marcadas por defecto son:')
